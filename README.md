@@ -1,1 +1,2 @@
 # 7.19-LAB-Word-frequencies-JavaScript-
+This lab involves creating calcWordFrequencies() in JavaScript to process a string of words separated by spaces. Using split(" "), it divides the input into an array of words, then employs a Map to track each word's frequency. After iterating through the array to update frequencies, the function outputs each word and its count using console.log(), reinforcing JavaScript skills in array manipulation and data structure usage.
